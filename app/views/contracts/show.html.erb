@@ -15,5 +15,8 @@
   <%= @contract.service_fee %>
 </p>
 
+<% if @contract.pdfmonkey_id %>
+  <%= link_to 'Download', contract_document_path(@contract), target: '_blank' %> |
+<% end %>
 <%= link_to 'Edit', edit_contract_path(@contract) %> |
 <%= link_to 'Back', contracts_path %>
