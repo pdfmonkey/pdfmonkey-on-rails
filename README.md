@@ -5,7 +5,7 @@
 Automate your PDF generation. Get the job done.
 
 Manage your templates. Insert dynamic data. Call a simple REST API.
-Get 1000 free PDF a month.
+Get 300 free PDF a month.
 
 Developers writing code to build PDF is a waste of time. Break the circle!
 
